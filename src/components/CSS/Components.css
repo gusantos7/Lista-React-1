@@ -1,0 +1,68 @@
+.simples{
+    color: gray;
+}
+
+.propSimples{
+    color: blue;
+}
+
+.bemVindoUsuario{
+    color: aquamarine;
+}
+
+.maiorIdade{
+    color: red;
+}
+.menorIdade{
+    color: aqua;
+}
+
+.estudante{
+    color: orange;
+}
+.naoEstudante{
+    color: darkcyan;
+}
+
+.excelente {
+    color: green;
+}
+.bom{
+    color: yellow;
+}
+.melhore{
+    color: orangered;
+}
+
+.desconto{
+    color: chartreuse;
+}
+.sem-desconto{
+    color: darkred;
+}
+
+#online {
+    color: greenyellow;
+}
+#offline{
+    color: dimgray;
+}
+
+#btn-sair{
+    background-color: crimson;
+    box-shadow: 10px 20px 10px 20px solid black;
+}
+#btn-entrar{
+    background-color: green;
+    box-shadow: 10px 20px 10px 20px solid black;
+}
+
+#iniciante{
+    color: goldenrod;
+}
+#intermediario{
+    color: greenyellow;
+}
+#avançado{
+    color: tomato;
+}
